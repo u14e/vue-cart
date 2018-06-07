@@ -5,5 +5,3 @@
 - Ajax 改用 Axios
 - mock数据代码结构调整
 - 页面在`view/`下面，组件在`components/`下面
-
-
